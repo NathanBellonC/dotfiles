@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nathan.bellonc@gmail.com
+	name = Nathan Bellon_Champel
